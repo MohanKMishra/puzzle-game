@@ -2,12 +2,12 @@ import React, { useState } from "react";
 
 const Box = () => {
   const [data, setData] = useState([
-    // [2, 3, 1],
-    // [6, 7, 0],
-    // [4, 5, 8],
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 0, 8],
+    [2, 3, 1],
+    [6, 7, 0],
+    [4, 5, 8],
+    // [1, 2, 3],
+    // [4, 5, 6],
+    // [7, 0, 8],
   ]);
   const final_result = [
     [1, 2, 3],
